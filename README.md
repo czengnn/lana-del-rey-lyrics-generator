@@ -4,7 +4,7 @@ I chose to generate lyrics as if they were from a Lana Del Rey song, because is 
 
 # Data Source
 I pulled latest 5 Lana Del Rey studio albums from Genius.com using the package lyricsgenius.  
-The albums are: 
+There are 83 songs in total, the albums are: 
 - Born to Die: The Paradise Edition
 - Ultraviolence
 - Honeymoon
