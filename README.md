@@ -30,7 +30,7 @@ example target: "night"
 The model was trained to use various lengths of sentences (lyrical paragraph broken up by line break) to predict the next word.
 The predictions from this model does not include line break, so I manually broke the lyrics into lines for easier interpretation.  
 ### Example 1 of Lyrics Generator:
-#### seed = 'lolita"  
+#### seed = "lolita"  
 lolita hey design  
 single to me to me anyway  
 down in the garden of evil beauty queen of the hollywood sign  
@@ -50,4 +50,25 @@ and over there out of time
 
 Interpretation from a Lana Fan (me):  
 I have looked it up to make sure "evil beauty queen of the hollywood sign" is not an actual phrase from any Lana songs, and it makes sense this is something Lana would say. This generator lyrics seems to be talking about Lana wanting to be free by the hollywood sign where she calls home, she asks who has been getting with you around the beaches here lately, do you have a party? And she wants to dance 'til dawn.
+
+### Example 2 of Lyrics Generator:
+#### seed = "baby blue"  
+
+baby blue yeah you do  
+it's hard to leave  
+blue and forever 
+seeing pants on the floor of your new car 
+baby oh i'm la than i left 
+making me crazy 
+but we're glance 
+baby i don't know what you do 
+it's unbelievable 
+love you 
+gathered me the fame and the fortune and the legend 
+a stairway stairway to heaven 
+it to lie like her rival 
+in my car got a bad desire 
+on the ipad side of the american dream 
+down and now low down 
+and maybe think that you try to take to start your life over 
 
