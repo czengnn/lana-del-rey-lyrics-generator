@@ -13,6 +13,8 @@ There are 98 songs in total, the albums are:
 - Norman F***ing Rockwell!
 - Chemtrails over the Country Club
 
+[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 # Models
 I built 2 versions of the text generator model, first model predicts character by character, the second model predicts word by word.  
 In each model, a seed is required, it's a starting point that promts the model to start the prediction, it can be a randomly chosen word such as "beach" or 
